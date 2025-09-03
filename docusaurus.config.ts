@@ -6,7 +6,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
   title: "TechPoint24 Legal",
-  tagline: "Dinosaurs are cool",
+  tagline: "Rechtliche Informationen für TechPoint24",
   favicon: "img/favicon.ico",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -64,7 +64,7 @@ const config: Config = {
     navbar: {
       title: "TechPoint24 Legal",
       logo: {
-        alt: "My Site Logo",
+        alt: "TechPoint24 Logo",
         src: "img/Icon_512x512.png",
       },
       items: [
