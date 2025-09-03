@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.2](https://github.com/techpoint24de/techpoint24-legal/compare/0.1.1...0.1.2) (2025-09-03)
+
+### Bug Fixes
+
+* PNPM Version aktualisieren ([af5c516](https://github.com/techpoint24de/techpoint24-legal/commit/af5c51677e830e274da5f889fd9f07bca6cf9da5))
+
 ## [0.1.1](https://github.com/techpoint24de/techpoint24-legal/compare/0.1.0...0.1.1) (2025-09-03)
 
 ### Bug Fixes
